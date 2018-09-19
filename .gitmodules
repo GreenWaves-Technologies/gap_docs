@@ -1,0 +1,3 @@
+[submodule "gap8_docs"]
+	path = gap8_docs
+	url = ./gap8_docs
